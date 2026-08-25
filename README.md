@@ -16,4 +16,6 @@
 3. Откройте файл решения TicTacToe.sln в Visual Studio (2019 или новее).
 4. Нажмите клавишу F5 или выберите пункт меню Отладка → Начать отладку, чтобы запустить игру.
 
-   
+ <img width="659" height="405" alt="image" src="https://github.com/user-attachments/assets/41ecd631-4618-42fe-8538-7942e6f07d51" />
+ 
+  
